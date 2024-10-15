@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771724473700",
+    "project_id": "trabajito-e7dd0",
+    "storage_bucket": "trabajito-e7dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771724473700:android:d691b1d250efd776757671",
+        "android_client_info": {
+          "package_name": "com.example.trabajooooo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgGVpsRTTEMAj6t5YE3Rsx-7-7ZFzBWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
